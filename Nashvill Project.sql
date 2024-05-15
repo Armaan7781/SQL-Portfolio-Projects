@@ -1,4 +1,5 @@
 T20 Wc Batting scraping code: (This is just an optional code)
+/* For entire PDF, refer: https://drive.google.com/file/d/1mhjfMFZspwmt4xLZR3bemCsNj0Kkzek2/view */
 	
 /* -------------- STAGE 1 ------------ */
 
